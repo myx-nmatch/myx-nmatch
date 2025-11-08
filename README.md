@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🌍, I'm Micah</h1>
+<h1 align="center">Hello 🌏, I'm Micah</h1>
 
 ###
 
