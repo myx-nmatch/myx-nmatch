@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 🏅 Top 9 @ Next-Gen Startup 2025<br>• 💻 BS Computer Science @ PLM<br>• 💼 Product Management Junior Mission Specialist @ KadaKareer<br>• 💼 Acting Chief Community Development Officer @ GDGoC PLM<br>• 📗 Scholar @ DataCamp</p>
+<p align="left">• 🏅 Top 9 @ Next-Gen Startup 2025<br>• 💻 BS Computer Science @ PLM<br>• 💼 Acting Chief Community Development Officer @ GDGoC PLM<br>• 💼 Former Product Management Junior Mission Specialist @ KadaKareer<br>• 📗 Scholar @ DataCamp</p>
 
 ###
 
