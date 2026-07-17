@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">• 🏅 Top 9 @ Next-Gen Startup 2025<br>• 💻 BS Computer Science @ PLM<br>• 💼 Chief Community Development Officer @ GDGoC PLM<br>• 💼 Former Product Management Junior Mission Specialist @ KadaKareer<br>• 📗 Scholar @ DataCamp</p>
+<p align="left">• 🏅 Top 9 @ Next-Gen Startup 2025<br>• 💻 BS Computer Science @ PLM<br>• 💼 Project Management Intern @ Mashup Garage<br>• 💼 AI Intern @ Flyrank AI<br>• 💼 Former Chief Community Development Officer @ GDGoC PLM<br>• 💼 Former Product Management Junior Mission Specialist @ KadaKareer<br>• 📗 DataCamp Scholar</p>
 
 ###
 
@@ -45,14 +45,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/micah-gabriel-ochoa-5a7303332" target="_blank">
+  <a href="https://www.linkedin.com/in/micah-gabriel-o" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/myxnmatchh?igsh=YjlvajE4N2c0Zzg0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1GPWjGdvJB/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
 
